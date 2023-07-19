@@ -17,7 +17,20 @@
     color: var(--black);    
 }
 
-
+.button{
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid orange;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  border-radius: 20px;
+  background: linear-gradient( 135deg, #FCCF31 10%, #F55555 100%);
+  color:white;
+}
+.button:hover{
+  color: orange;
+  background: white;
+  border: 1px solid orange;
+}
   
 
   
