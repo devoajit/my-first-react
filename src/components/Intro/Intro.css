@@ -8,6 +8,11 @@
     margin: 0;
     padding: 0;
 }
+.i-left{
+    width: 60%;
+    display: flex;
+    align-content: center;
+}
 .i-left h1{
     font-size: 3rem;
 }
